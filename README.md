@@ -2,7 +2,8 @@
 
 ## Introduction:
 
-For the last two weeks with the Tech Academy I worked on a Live Project in Unity and C# which simulated a real world work environment in which I worked with my peers and staff on a 3D miniature golf game. I worked on a variety of stories including making my own level for the game and working on multiple systems which will be used on all levels. Below are some code snippets of the stories I worked on, full code files are also available in this repository.
+
+For the last two weeks with the Tech Academy, I worked on a Live Project in Unity and C# which simulated a real-world work environment in which I worked with my peers and staff on a 3D miniature golf game. I worked on a variety of stories including making my own level for the game and working on multiple systems which will be used on all levels. Below are some code snippets of the stories I worked on, full code files are also available in this repository.
 
 ## Stories:
 
