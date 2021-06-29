@@ -4,7 +4,7 @@
 
 For the last two weeks with the Tech Academy I worked on a Live Project in Unity and C# which simulated a real world work environment in which I worked with my peers and staff on a 3D miniature golf game. I worked on a variety of stories including making my own level for the game and working on multiple systems which will be used on all levels. Below are some code snippets of the stories I worked on, full code files are also available in this repository.
 
-## Pages and Stories:
+## Stories:
 
 ### Add New Hole:
 Five stories in which I created my own level for the game including the basic level design, scenery, terrain, lighting, particle effects, and animations. My level has a miniture golf course with a few obstacles including multiple height changes like a hill and a depression, and a few objects on the course like a working windmill and a couple of blocks. There are also a few scenery peices like a house, foutain, lamp post, and a campfire. The house has a chimeny billowing smoke and a the campfire is lit with a blazing fire complete with smoke, embers, and animated light which slightly flickers and moves. All of these effects were created with the base unity tools for animation and particle effects.
