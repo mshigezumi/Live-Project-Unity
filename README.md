@@ -98,3 +98,6 @@ This story revolved around creating a particle effect for fireworks that shoot o
 ## Images:
 ![Hole Image](https://user-images.githubusercontent.com/71560004/134138998-3214f5b8-65f9-4b61-ab81-c2861b72963b.png)
 Here is an image of the whole level
+
+![Firework Particles](https://user-images.githubusercontent.com/71560004/134144710-d1b69acc-8a5a-4eaf-90b0-0346c0254f4f.gif)
+Here is a look at the firework particle effects, all created with the default particle systems.
