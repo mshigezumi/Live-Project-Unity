@@ -103,4 +103,4 @@ Here is an image of the whole level
 Here is a look at the firework particle effects, all created with the default particle systems.
 
 ![Play Demonstration](https://user-images.githubusercontent.com/71560004/134149024-3e3a704a-68fa-4d5b-af66-f28b18fb230b.gif)
-Here is a demonstration of the game in play mode, you can see the interactive camera with automatic placement in use as well as the system to keep the ball visible even when obstructed.
+Here is a demonstration of the game in play mode, you can see the interactive camera with automatic placement in use as well as the system to keep the ball visible even when obstructed. The animations for the windmill and fire light are also active.
