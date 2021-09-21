@@ -65,7 +65,7 @@ Two stories dealing with creating an interactive camera system that is locked on
 ~~~
 
 ### Reveal Player Ball When Hidden:
-This story focused on making the player ball remain visable when hidden by other objects as to not lose the ball when playing. The way I implemented this change was by using a shader to allow the ball to be visable whenever it was obstructed by another object with a highlight. I did this for both the ball and the aiming ridicule (which when I did this story was another smaller yellow sphere used for aiming).
+This story focused on making the player ball remain visable when hidden by other objects as to not lose the ball when playing. The way I implemented this change was by using a shader to allow the ball to be visible whenever it was obstructed by another object with a highlight. I did this for both the ball and the aiming ridicule (which when I did this story was another smaller yellow sphere used for aiming).
 
 ### Create Fireworks Particle Effect and Trigger
 This story revolved around creating a particle effect for fireworks that shoot out of the hole when the player completes the course. Like with the other particles effects I worked on I put a lot of time into making sure that these particles looked good with the base unity tools for particle systems. Additionally I made sure to try to make these fireworks as scalable as possible since these are to be use on all future maps just in case someone needed to scale them upwards or downwards. The fireworks include the firework itself, the smoketrail, and the final explosion using sub emitters. I also had to implement a coroutine for the trigger to delay the next scene loading till after the fireworks shoot off and explode.
@@ -101,3 +101,6 @@ Here is an image of the whole level
 
 ![Firework Particles](https://user-images.githubusercontent.com/71560004/134144710-d1b69acc-8a5a-4eaf-90b0-0346c0254f4f.gif)
 Here is a look at the firework particle effects, all created with the default particle systems.
+
+![Play Demonstration](https://user-images.githubusercontent.com/71560004/134149024-3e3a704a-68fa-4d5b-af66-f28b18fb230b.gif)
+Here is a demonstration of the game in play mode, you can see the interactive camera with automatic placement in use as well as the system to keep the ball visible even when obstructed.
